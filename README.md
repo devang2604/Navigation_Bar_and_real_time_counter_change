@@ -1,6 +1,6 @@
-# software_kernel_assignment
+# Navigation_Bar_and_real_time_counter_change
 
-Project for Software Kernel.
+Navigation_Bar_and_real_time_counter_change.
 
 ## Getting Started
 
